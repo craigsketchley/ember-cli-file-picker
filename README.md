@@ -1,5 +1,7 @@
 # Ember-cli-file-picker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/funkensturm/ember-cli-file-picker.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/funkensturm/ember-cli-file-picker.svg)](https://travis-ci.org/funkensturm/ember-cli-file-picker)
 [![Ember Observer Score](http://emberobserver.com/badges/ember-cli-file-picker.svg)](http://emberobserver.com/addons/ember-cli-file-picker)
 
